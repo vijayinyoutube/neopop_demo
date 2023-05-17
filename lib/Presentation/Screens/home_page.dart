@@ -30,13 +30,16 @@ class MyHomePage extends StatelessWidget {
           plunkColor: Color(0xFFc3a13b),
           shadowColor: Colors.black,
         ),
-        child: const Padding(
-          padding: EdgeInsets.symmetric(horizontal: 70.0, vertical: 15),
-          child: Text('Play Now →',
-              style: TextStyle(
-                  color: Colors.black,
-                  fontSize: 25,
-                  fontWeight: FontWeight.bold)),
+        child: const NeoPopShimmer(
+           shimmerColor: Colors.white,
+          child: Padding(
+            padding: EdgeInsets.symmetric(horizontal: 70.0, vertical: 15),
+            child: Text('Play Now →',
+                style: TextStyle(
+                    color: Colors.black,
+                    fontSize: 25,
+                    fontWeight: FontWeight.bold)),
+          ),
         ),
       );
 }
