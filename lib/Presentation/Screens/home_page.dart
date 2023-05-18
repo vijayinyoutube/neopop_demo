@@ -31,14 +31,16 @@ class MyHomePage extends StatelessWidget {
           shadowColor: Colors.black,
         ),
         child: const NeoPopShimmer(
-           shimmerColor: Colors.white,
+          shimmerColor: Colors.white,
           child: Padding(
             padding: EdgeInsets.symmetric(horizontal: 70.0, vertical: 15),
-            child: Text('Play Now →',
-                style: TextStyle(
-                    color: Colors.black,
-                    fontSize: 25,
-                    fontWeight: FontWeight.bold)),
+            child: Text(
+              'Play Now →',
+              style: TextStyle(
+                  color: Colors.black,
+                  fontSize: 25,
+                  fontWeight: FontWeight.bold),
+            ),
           ),
         ),
       );
