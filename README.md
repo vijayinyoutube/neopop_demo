@@ -44,7 +44,7 @@ neopop: ^1.0.2
 
 ## App
   
-Check out the video tutorial (YouTube) 👉 : 
+Check out the video tutorial (YouTube) 👉 : https://youtu.be/e3joEAPBxzE
 
 To know more awesome content about Flutter., 
 
