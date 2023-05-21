@@ -23,7 +23,7 @@
 
 <p align="center">
 
-[<img src="https://github.com/vijayinyoutube/neopop_demo/assets/58719230/0e009856-8245-435e-9ac7-33c744703bdf" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<img src="https://github.com/vijayinyoutube/neopop_demo/assets/58719230/9d6235b7-2a0a-4c25-aa0b-290a57e26f64" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 </p>
 
